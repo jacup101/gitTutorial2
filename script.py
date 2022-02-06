@@ -1,3 +1,5 @@
+print("Welcome to the Goodbye Program")
 print("What is your name?")
 name = input()
 print("Goodbye {name}".format(name=name))
+print("Have a nice day")
